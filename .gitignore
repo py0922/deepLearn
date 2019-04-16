@@ -2,5 +2,5 @@
 *~
 *.gz
 *.pyc
-*/*.pkl
+ch03/mnist.pkl
 __pycache__/
